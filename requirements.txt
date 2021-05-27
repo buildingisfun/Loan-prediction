@@ -1,12 +1,12 @@
-altair @ file:///tmp/build/80754af9/altair_1599835197802/work
-anyio @ file:///D:/bld/anyio_1621480554612/work/dist
+altair==4.1.0
+anyio==3.1.0
 argh==0.26.2
-argon2-cffi @ file:///C:/ci/argon2-cffi_1596828549974/work
+argon2-cffi==20.1.0
 astor==0.8.1
 async-generator==1.10
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
-Babel @ file:///home/conda/feedstock_root/build_artifacts/babel_1619719576210/work
-backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+attrs==21.2.0
+Babel==2.9.1
+backcall==0.2.0
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
 base58 @ file:///home/conda/feedstock_root/build_artifacts/base58_1610222858736/work
 bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
