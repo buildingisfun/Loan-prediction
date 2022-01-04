@@ -8,7 +8,7 @@ One of the earliest hackathon I entered was on loan prediction.Algorithm that ma
 
 
 ## Project Description
-The data had two files. The test files and the train file.Processes include replacing null values, checking for outliers, visualization, scaling and then modeeling.
+The data had two files. The test files and the train file.Processes include replacing null values, checking for outliers, visualization, scaling and then modelling. The model was then wrapped with stramlit and deployed on heroku.
 
 ### Technologies
 * Python
